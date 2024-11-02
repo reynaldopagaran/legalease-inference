@@ -6,7 +6,9 @@ Run GGUF models on your android app with ease!
 
 This is a Android binding for [llama.cpp](https://github.com/ggerganov/llama.cpp) written in Kotlin, designed for native Android applications. This project is inspired (forked) by [cui-llama.rn](https://github.com/Vali-98/cui-llama.rn) and [llama.cpp](https://github.com/ggerganov/llama.cpp): Inference of [LLaMA](https://arxiv.org/abs/2302.13971) model in pure C/C++but specifically tailored for Android development in Kotlin.
 
-This is a very early version and API may change in the future.
+This is a very early alpha version and API may change in the future.
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P6149YRQ)
 
 ## Features
 
